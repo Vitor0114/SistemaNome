@@ -1,0 +1,5 @@
+C:\Users\vitor.silva16\formularioTeste\bin\Debug\net7.0-windows\publish\formularioTeste.exe
+C:\Users\vitor.silva16\formularioTeste\bin\Debug\net7.0-windows\publish\formularioTeste.dll
+C:\Users\vitor.silva16\formularioTeste\bin\Debug\net7.0-windows\publish\formularioTeste.deps.json
+C:\Users\vitor.silva16\formularioTeste\bin\Debug\net7.0-windows\publish\formularioTeste.runtimeconfig.json
+C:\Users\vitor.silva16\formularioTeste\bin\Debug\net7.0-windows\publish\formularioTeste.pdb
